@@ -83,9 +83,6 @@ See `REPORT_TEMPLATE.md` for suggested evaluation steps and what screenshots/tab
 
 ---
 
-## License
-Educational prototype for coursework.
-
 
 ## GUI
 

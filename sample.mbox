@@ -1,0 +1,25 @@
+From MAILER-DAEMON Sat Jan  1 00:00:00 2022
+Date: Sat, 1 Jan 2022 00:00:00 +0000
+From: "PayPal Security" <alerts@paypa1-support.example>
+To: victim@example.com
+Subject: Urgent: Verify your account
+Message-ID: <abc123@paypa1-support.example>
+Return-Path: <bounce@otherdomain.example>
+Reply-To: support@otherdomain.example
+Authentication-Results: mx.example.com; spf=fail smtp.mailfrom=otherdomain.example; dkim=none; dmarc=fail
+Received: from attacker.example (attacker.example [10.0.0.5]) by mx.example.com with ESMTP id 123; Sat, 1 Jan 2022 00:00:00 +0000
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="BOUND"
+
+--BOUND
+Content-Type: text/plain; charset="utf-8"
+
+Please verify now.
+
+--BOUND
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="invoice.bin"
+Content-Transfer-Encoding: base64
+
+SGVsbG8gV29ybGQh
+--BOUND--

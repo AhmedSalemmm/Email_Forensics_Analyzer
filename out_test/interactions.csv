@@ -1,0 +1,2 @@
+sender,recipient,count,first_seen,last_seen
+alerts@paypa1-support.example,victim@example.com,1,2022-01-01T00:00:00+00:00,2022-01-01T00:00:00+00:00

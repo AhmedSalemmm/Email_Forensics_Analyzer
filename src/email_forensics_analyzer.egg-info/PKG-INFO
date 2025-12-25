@@ -1,3 +1,11 @@
+Metadata-Version: 2.4
+Name: email-forensics-analyzer
+Version: 1.0.0
+Summary: Email Forensics Analyzer prototype (MBOX/PST).
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: python-dateutil>=2.8.2
+
 # Email Forensics Analyzer (Digital Forensics Project)
 
 A working **Email Forensics Analyzer** prototype that:

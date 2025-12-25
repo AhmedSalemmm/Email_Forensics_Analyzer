@@ -1,0 +1,21 @@
+message_tag,source_mailbox,date_iso,sender_email,sender_domain,subject,risk_score,risk_level,detail_from_returnpath_mismatch,detail_messageid_domain_mismatch,detail_replyto_domain_mismatch,dkim_suspicious,dmarc_suspicious,few_received_hops,from_returnpath_mismatch,messageid_domain_mismatch,name_impersonation_hint,replyto_domain_mismatch,spf_suspicious
+76f0c18c34b235bb,spam.mbox,2005-10-26T08:18:34-09:00,kassyz@baku.az,baku.az,"First-grade replica masterpiece! Super, 100% as described.",0,none,,,,0,0,0,0,0,0,0,0
+6e0964fb52ff93a3,spam.mbox,2005-10-27T13:07:44-01:00,katie@hotmail.com,hotmail.com,"$2,400 in free casino cash",2,low,,,From=hotmail.com Reply-To=hotmail.com>,0,0,0,0,0,0,1,0
+c07c6f21a0e6676b,spam.mbox,2005-10-25T14:17:02+08:00,catalog118@yahoo.com.cn,yahoo.com.cn,Catalog,1,low,,From=yahoo.com.cn Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+f9756cacf93c92c2,spam.mbox,2005-10-25T02:27:31+03:00,corrine@yahoo.com,yahoo.com,I want to join,2,low,From=yahoo.com Return-Path=mx.anonymized_relay.com,,,0,0,0,1,0,0,0,0
+de0dcd6365a65cca,spam.mbox,2005-10-23T12:36:15-05:00,terencek@canoemail.com,canoemail.com,Work at home,1,low,,From=canoemail.com Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+db874c7816b32555,spam.mbox,2005-10-23T22:36:44+05:00,seymourx@lpemail.com,lpemail.com,Work at home,1,low,,From=lpemail.com Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+9b527c9f9b1b58db,spam.mbox,2005-10-23T01:57:43-04:00,megan@rediffmail.com,rediffmail.com,Your employer is closing business,1,low,,From=rediffmail.com Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+a2cb3035bfc99a85,spam.mbox,2005-10-23T00:01:40-06:00,kerry@yyhmail.com,yyhmail.com,Important message from work,1,low,,From=yyhmail.com Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+25dea65970881256,spam.mbox,2005-10-23T01:58:38-04:00,edwardsd@bonbon.net,bonbon.net,Layoffs beginning this week,1,low,,From=bonbon.net Message-ID domain=mx.anonymized_relay.com,,0,0,0,0,1,0,0,0
+d5f25110e5f8090a,spam.mbox,2005-04-19T19:35:50-08:00,uzpdzvkmpjg@arsisgmbh.ch,arsisgmbh.ch,"Remember, if you smoke after sex you're doing it too fast.",3,low,,From=arsisgmbh.ch Message-ID domain=okxgtjh,From=arsisgmbh.ch Reply-To=arsisgmbh.ch>,0,0,0,0,1,0,1,0
+c544e20ae206d737,spam.mbox,2005-10-25T19:39:35+00:00,bluestellic@msn.com,msn.com,"Linux-kernel,Your dog can be the best learner you've ever had.",2,low,,,From=msn.com Reply-To=yahoo.com>,0,0,0,0,0,0,1,0
+085e95f41cea5a8d,spam.mbox,2005-10-14T03:59:27-01:00,juliaedwards@yahoo.com,yahoo.com,Can I sign up?,2,low,From=yahoo.com Return-Path=mx.anonymized_relay.com,,,0,0,0,1,0,0,0,0
+809ab13d3b808f20,spam.mbox,2005-10-20T22:22:45-08:00,nortense@glasgow.cx,glasgow.cx,Better degree-better pay!,1,low,,From=glasgow.cx Message-ID domain=cuyvg,,0,0,0,0,1,0,0,0
+a7a983945708a698,spam.mbox,2005-10-25T10:49:07,onlogixx@onlogixx.com,onlogixx.com,Claim 250 Full-Color Business Cards,2,low,From=onlogixx.com Return-Path=mx.anonymized_relay.com,,,0,0,0,1,0,0,0,0
+a7a983945708a698,spam.mbox,2005-10-25T20:52:05,onlogixx@onlogixx.com,onlogixx.com,Color Business Cards for Just the Cost of Shipping,2,low,From=onlogixx.com Return-Path=mx.anonymized_relay.com,,,0,0,0,1,0,0,0,0
+92348747a6efec12,spam.mbox,2005-10-25T17:14:56-05:00,offers@liquidoffers.com,liquidoffers.com,Complimentary Full Color Business Cards,0,none,,,,0,0,0,0,0,0,0,0
+9c04a4b113e4cac6,spam.mbox,2005-10-26T06:50:16-05:00,offers@greatendeavor.com,greatendeavor.com,Complimentary Full Color Business Cards,0,none,,,,0,0,0,0,0,0,0,0
+af2a2efd569078bf,spam.mbox,2005-10-26T07:31:02,onlogixx@onlogixx.com,onlogixx.com,Full Color Business Cards at just cost of shippng,2,low,From=onlogixx.com Return-Path=mx.anonymized_relay.com,,,0,0,0,1,0,0,0,0
+b616256603c38366,spam.mbox,2005-10-25T07:10:08-05:00,offers@empirespecialty.com,empirespecialty.com,Full Color Business Cards at No Charge,0,none,,,,0,0,0,0,0,0,0,0
+91590a5f3a98c770,spam.mbox,2005-10-25T00:08:03-05:00,offers@greatendeavor.com,greatendeavor.com,Be Stylish: Get* a New Fall Wardrobe Here!,0,none,,,,0,0,0,0,0,0,0,0

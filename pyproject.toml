@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "email-forensics-analyzer"
+version = "1.0.0"
+description = "Email Forensics Analyzer prototype (MBOX/PST)."
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = ["python-dateutil>=2.8.2"]
+
+[project.scripts]
+email-forensics-analyzer = "email_forensics_analyzer.cli:main"
+email-forensics-gui = "email_forensics_analyzer.gui:main"

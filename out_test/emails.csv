@@ -1,0 +1,2 @@
+message_tag,source_mailbox,date_iso,sender_email,sender_domain,to_raw,cc_raw,subject,message_id,return_path,reply_to
+b4ef9cd848bf3d7d,sample.mbox,2022-01-01T00:00:00+00:00,alerts@paypa1-support.example,paypa1-support.example,victim@example.com,,Urgent: Verify your account,<abc123@paypa1-support.example>,<bounce@otherdomain.example>,support@otherdomain.example

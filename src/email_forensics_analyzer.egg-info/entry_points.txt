@@ -1,0 +1,3 @@
+[console_scripts]
+email-forensics-analyzer = email_forensics_analyzer.cli:main
+email-forensics-gui = email_forensics_analyzer.gui:main
